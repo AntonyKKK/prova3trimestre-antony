@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(92, 90, 90);
+}
+p{
+    color: rgba(0, 0, 0, 0.747);
+}
+h1{
+    color: aqua;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: rgb(255, 0, 0);
+}
+.perfection{
+    color: blueviolet;
+    font-size: larger;
+}
+.bad{
+    color: rgb(255, 0, 0);
+    font-size: medium;
+}
+.days{
+    width: 60%;
+}
